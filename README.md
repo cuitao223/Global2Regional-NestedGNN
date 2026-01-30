@@ -119,6 +119,6 @@ BibTeX:
 ## Citation (this repository)
 
 ```text
-TODO: Add citation for this code/paper (authors, title, venue, year).
+
 ```
 
