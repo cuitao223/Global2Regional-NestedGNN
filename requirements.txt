@@ -1,0 +1,16 @@
+﻿# NOTE: Pin versions based on your runtime environment.
+# This file is intentionally minimal; export your exact env for publication.
+
+numpy
+pandas
+xarray
+netCDF4
+h5netcdf
+matplotlib
+cartopy
+scipy
+trimesh
+
+# torch / torch_npu are environment-specific
+# torch
+# torch_npu
