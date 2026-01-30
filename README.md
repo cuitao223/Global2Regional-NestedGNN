@@ -7,7 +7,7 @@ This repository provides a **reproducible code release** for **regional (nested)
 - **CSAF**: Cross-Scale Attention Fusion (`BoundaryCrossAttention`)
 - **BCL**: Boundary-Consistent Loss for buffer-zone constraints
 
-All runnable scripts for the release are under `Upgithub/code/`.
+All runnable scripts for the release are under `./code/`.
 
 ## Overview
 
