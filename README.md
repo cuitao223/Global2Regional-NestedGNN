@@ -1,5 +1,5 @@
 # **Global2Regional-NestedGNN**
-
+![flowchart](https://github.com/cuitao223/Global2Regional-NestedGNN/blob/main/image/flowchart.png)
 **Language:** English | [`中文`](README.zh-CN.md)
 
 This repository provides a **reproducible code release** for **regional (nested) model** with:
