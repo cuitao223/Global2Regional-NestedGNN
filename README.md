@@ -18,7 +18,7 @@ High-level ideas:
 - **CSAF**: a lightweight cross-attention module fuses regional forecast features with boundary features.
 - **BCL**: a masked consistency term constrains the fused output to match boundary values in the buffer zone.
 
-## Repository Layout (release subset)
+##  Repository Layout (release subset)
 
 - `code/graphcast/`: GraphCast core implementation (Python).
 - `code/nested_utils.py`: region slicing, buffer mask, boundary blending utilities.
